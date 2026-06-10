@@ -1,3 +1,35 @@
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: local('Iosevka'), url(fonts/Iosevka-Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: local('Iosevka Bold'), url(fonts/Iosevka-Bold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Iosevka';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: local('Iosevka Italic'), url(fonts/Iosevka-Italic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Iosevka';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: local('Iosevka Bold Italic'), url(fonts/Iosevka-BoldItalic.woff2) format('woff2');
+}
+
 :root {
   --foreground-color: #000000;
   --background-color: #99AE94;

@@ -4,5 +4,7 @@
   "content_type": "SN|Theme",
   "area": "themes",
   "version": "1.0.0",
-  "url": "https://meeshaaaa.github.io/standardnotes-autumn/theme.css"
+  "url": "https://meeshaaaa.github.io/standardnotes-autumn/theme.css",
+  "download_url": "https://github.com/meeshaaaa/standardnotes-autumn/releases/download/v1.0.0/dist.zip",
+  "latest_url": "https://meeshaaaa.github.io/standardnotes-autumn/ext.json"
 }
